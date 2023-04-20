@@ -1,4 +1,4 @@
-Hello everyone, I was going through Greensock and came across GSAP. <br> <br>
+Hello everyone, I was browsing through Greensock and came across GSAP. <br> <br>
 ![logo-man](https://user-images.githubusercontent.com/70037596/233337879-94b6f8cd-2f45-4214-bd59-6f850164221e.svg) <br> <br>
-Among all the amazing tools it offers, I worked with ScrollTrigger() and build a portfolio as an experiment. <br>
-:computer::<a href = "parallax-scrolling-portfolio.netlify.app"></a>
+Among all the incredible tools it provides, I worked with ScrollTrigger() and created a portfolio. <br>
+:computer:: https://parallax-scrolling-portfolio.netlify.app/
